@@ -1,0 +1,63 @@
+h1:hover {
+  background-color: blueviolet;
+}
+p {
+  font-size: 25px;
+  font-weight: bold;
+}
+.all {
+  border: 10px solid white;
+  width: 500px;
+  height: 400px;
+  position: relative;
+  left: 25%;
+}
+#tg:hover {
+  background-color: aqua;
+  width: 50%;
+  height: 47.7%;
+}
+#you {
+  background-color: brown;
+  width: 50%;
+  height: 47.7%;
+  position: relative;
+  left: 50%;
+  top: 18px;
+}
+table {
+  width: 400px;
+}
+th {
+  text-align: left;
+}
+th,
+td,
+table {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+th,
+td,
+table {
+  padding: 10px;
+  width: 35%;
+}
+tr:nth-child(even) {
+  background-color: white;
+}
+tr:nth-child(odd) {
+  background-color: #ddd;
+}
+body {
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h1 {
+  text-align: center;
+  color: white;
+}
+fieldset {
+  width: 50%;
+}
